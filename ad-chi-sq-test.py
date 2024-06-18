@@ -1,6 +1,6 @@
 # NAME: ad-chi-sq-test.py
 """
- Team Members: Manimegalai Vaiyapuri, Manasa Gadepalli, Skyla Dennis
+ Team Members: Manimegalai Vaiyapuri, M****a G*******i, S***a D****s
 
  This program builds contingency tables with the frequencies of SNP and patient group 
  classification (Control, MCI, or AD) and performs Chi-square tests on the contingency 
